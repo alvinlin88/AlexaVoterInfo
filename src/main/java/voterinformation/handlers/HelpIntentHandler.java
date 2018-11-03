@@ -19,10 +19,10 @@ public class HelpIntentHandler implements RequestHandler {
 
     @Override
     public Optional<Response> handle(HandlerInput input) {
-        String speechText = "You have opened voting information. How can I help you?";
+        String speechText = "You have opened Versed Voter. How can I help you?";
         return input.getResponseBuilder()
                 .withSpeech(speechText)
-                .withSimpleCard("Voter Information", speechText)
+                .withSimpleCard("Versed Voter", speechText)
                 .build();
     }
 }
