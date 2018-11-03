@@ -20,7 +20,7 @@ public class LaunchRequestHandler implements RequestHandler {
         String speechText = "Welcome to the Versed Voter. How may I help you?";
         return input.getResponseBuilder()
                 .withSpeech(speechText)
-                .withSimpleCard("HelloWorld", speechText)
+                .withSimpleCard("Versed Voter", speechText)
                 .withReprompt(speechText)
                 .build();
     }
