@@ -1,4 +1,5 @@
 package voterinformation.util;
 
-public class VotingFactsStream {
+public class votingInfo {
+
 }
