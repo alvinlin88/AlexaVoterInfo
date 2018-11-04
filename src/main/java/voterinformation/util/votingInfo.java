@@ -55,7 +55,7 @@ public class votingInfo {
 
     public static Map getInfo3(){
         Map<String, String> map = new HashMap();
-        map.put("Candidate", "Andrew Gillum has stated that disbelief in climate change and inaction threatens the future of our planet. He promises to promote alternative energy sources, and that doing so would enlist more job opportunities to help make the US the world’s leader in clean energy.");
+        map.put("Candidate", "Andrew Gillum has stated that disbelief in climate change and inaction threatens the future of our planet. He promises to promote alternative energy sources, and that doing so would enlist more job opportunities to help make the US the worlds leader in clean energy.");
         map.put("Amendment3", "The Seminole Tribe of Florida and Disney because the amendment would make it harder to expand gambling. The two groups have spent nearly $40 million campaigning for Amendment 3.");
         map.put("Judge", "Jamey Moody has been practicing law for 15 years.");
         return map;
@@ -63,8 +63,8 @@ public class votingInfo {
 
     public static Map getInfo4(){
         Map<String, String> map = new HashMap();
-        map.put("Candidate", "Andrew Gillum’s running mate is American entrepreneur and democrat, Chris King");
-        map.put("Amedement3", "The Seminole Tribe is a casino operator and is not subject to the state’s restrictions on casino-style gambling. Disney has argued that more gambling could tarnish the family-friendly image it banks on to bring in vacationers.");
+        map.put("Candidate", "Andrew Gillums running mate is American entrepreneur and democrat, Chris King");
+        map.put("Amedement3", "The Seminole Tribe is a casino operator and is not subject to the states restrictions on casino-style gambling. Disney has argued that more gambling could tarnish the family-friendly image it banks on to bring in vacationers.");
         map.put("Judge", "Jamey Moody specializes in plaintiff’s personal injury which excludes pro bono services.");
         return map;
     }
