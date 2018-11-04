@@ -38,11 +38,13 @@ public class CandidateIntentHandler implements RequestHandler {
                     .withSpeech(speechText)
                     .withSimpleCard("Versed Voter", speechText)
                     .addRenderTemplateDirective(display)
+                    .withReprompt(speechText)
                     .build();
         } else {
             return input.getResponseBuilder()
                     .withSpeech(speechText)
                     .withSimpleCard("Versed Voter", speechText)
+                    .withReprompt(speechText)
                     .build();
         }
     }
