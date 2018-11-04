@@ -17,7 +17,7 @@ public class LaunchRequestHandler implements RequestHandler {
 
     @Override
     public Optional<Response> handle(HandlerInput input) {
-        String speechText = "Welcome to the Versed Voter. How may I help you?";
+        String speechText = "Welcome to Versed Voter. How may I help you?";
         return input.getResponseBuilder()
                 .withSpeech(speechText)
                 .withSimpleCard("Versed Voter", speechText)

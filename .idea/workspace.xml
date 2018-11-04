@@ -4,16 +4,41 @@
     <list default="true" id="6d34a8c7-da79-4b48-982e-292ce10dac26" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/voterinformation/VoterInformationStreamHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/voterinformation/VoterInformationStreamHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/voterinformation/handlers/CancelandStopIntentHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/voterinformation/handlers/CancelandStopIntentHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/voterinformation/handlers/HelpIntentHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/voterinformation/handlers/HelpIntentHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/voterinformation/handlers/LaunchRequestHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/voterinformation/handlers/LaunchRequestHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/voterinformation/handlers/amendment/AmendmentMeaningIntentHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/voterinformation/handlers/amendment/AmendmentMeaningIntentHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/voterinformation/handlers/amendment/AmendmentOpposeIntentHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/voterinformation/handlers/amendment/AmendmentOpposeIntentHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/voterinformation/handlers/amendment/AmendmentOppositionReasonIntentHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/voterinformation/handlers/amendment/AmendmentOppositionReasonIntentHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/voterinformation/handlers/amendment/AmendmentSupportIntentHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/voterinformation/handlers/amendment/AmendmentSupportIntentHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/voterinformation/handlers/amendment/AmendmentSupportReasonIntentHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/voterinformation/handlers/amendment/AmendmentSupportReasonIntentHandler.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/voterinformation/handlers/candidate/EnvironmentIntentHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/voterinformation/handlers/candidate/EnvironmentIntentHandler.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/voterinformation/handlers/candidate/GunControlIntentHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/voterinformation/handlers/candidate/GunControlIntentHandler.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/voterinformation/handlers/candidate/OpponentIntentHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/voterinformation/handlers/candidate/OpponentIntentHandler.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/voterinformation/handlers/candidate/RunningMateIntentHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/voterinformation/handlers/candidate/RunningMateIntentHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/voterinformation/handlers/judge/JudgeFusonIntentHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/voterinformation/handlers/judge/JudgeFusonIntentHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/voterinformation/handlers/judge/JudgeMoodyAgeIntentHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/voterinformation/handlers/judge/JudgeMoodyAgeIntentHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/voterinformation/handlers/judge/JudgeMoodyIntentHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/voterinformation/handlers/judge/JudgeMoodyIntentHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/voterinformation/handlers/judge/JudgeMoodySpecialIntentHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/voterinformation/handlers/judge/JudgeMoodySpecialIntentHandler.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/voterinformation/util/votingInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/voterinformation/util/votingInfo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/voterinformation/VoterInformationStreamHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/voterinformation/VoterInformationStreamHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/voterinformation/handlers/CandidateIntentHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/voterinformation/handlers/CancelandStopIntentHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/voterinformation/handlers/CancelandStopIntentHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/voterinformation/handlers/HelpIntentHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/voterinformation/handlers/HelpIntentHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/voterinformation/handlers/LaunchRequestHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/voterinformation/handlers/LaunchRequestHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/voterinformation/handlers/amendment/AmendmentMeaningIntentHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/voterinformation/handlers/amendment/AmendmentMeaningIntentHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/voterinformation/handlers/amendment/AmendmentOpposeIntentHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/voterinformation/handlers/amendment/AmendmentOpposeIntentHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/voterinformation/handlers/amendment/AmendmentOppositionReasonIntentHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/voterinformation/handlers/amendment/AmendmentOppositionReasonIntentHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/voterinformation/handlers/amendment/AmendmentSupportIntentHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/voterinformation/handlers/amendment/AmendmentSupportIntentHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/voterinformation/handlers/amendment/AmendmentSupportReasonIntentHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/voterinformation/handlers/amendment/AmendmentSupportReasonIntentHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/voterinformation/handlers/candidate/EnvironmentIntentHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/voterinformation/handlers/candidate/EnvironmentIntentHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/voterinformation/handlers/candidate/GunControlIntentHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/voterinformation/handlers/candidate/GunControlIntentHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/voterinformation/handlers/candidate/OpponentIntentHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/voterinformation/handlers/candidate/OpponentIntentHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/voterinformation/handlers/candidate/RunningMateIntentHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/voterinformation/handlers/candidate/RunningMateIntentHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/voterinformation/handlers/judge/JudgeFusonIntentHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/voterinformation/handlers/judge/JudgeFusonIntentHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/voterinformation/handlers/judge/JudgeMoodyAgeIntentHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/voterinformation/handlers/judge/JudgeMoodyAgeIntentHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/voterinformation/handlers/judge/JudgeMoodyIntentHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/voterinformation/handlers/judge/JudgeMoodyIntentHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/voterinformation/handlers/judge/JudgeMoodySpecialIntentHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/voterinformation/handlers/judge/JudgeMoodySpecialIntentHandler.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/voterinformation/util/votingInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/voterinformation/util/votingInfo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/voter-info-0.1-PROTOTYPE-jar-with-dependencies.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/voter-info-0.1-PROTOTYPE-jar-with-dependencies.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/voter-info-0.1-PROTOTYPE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/voter-info-0.1-PROTOTYPE.jar" afterDir="false" />
     </list>
@@ -27,28 +52,28 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="1" />
-          <entry key="java" value="25" />
+          <entry key="java" value="51" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="25" />
+          <entry key="JAVA" value="51" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="58" />
-          <entry key="java" value="1573" />
-          <entry key="txt" value="14" />
+          <entry key="java" value="1962" />
+          <entry key="txt" value="55" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1573" />
-          <entry key="PLAIN_TEXT" value="72" />
+          <entry key="JAVA" value="1962" />
+          <entry key="PLAIN_TEXT" value="113" />
         </counts>
       </usages-collector>
     </session>
@@ -56,10 +81,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/voterinformation/util/votingInfo.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/voterinformation/handlers/HelpIntentHandler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="828">
-              <caret line="90" column="126" selection-start-line="90" selection-start-column="126" selection-end-line="90" selection-end-column="126" />
+            <state relative-caret-position="345">
+              <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -68,22 +93,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/voterinformation/handlers/amendment/AmendmentSupportIntentHandler.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/voterinformation/handlers/SessionEndedRequestHandler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="417">
-              <caret line="22" column="58" lean-forward="true" selection-end-line="35" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/voterinformation/handlers/amendment/AmendmentSupportReasonIntentHandler.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="18" column="63" selection-start-line="18" selection-start-column="63" selection-end-line="18" selection-end-column="63" />
+            <state relative-caret-position="322">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -92,10 +105,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/voterinformation/handlers/amendment/AmendmentIntentHandler.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/voterinformation/handlers/LaunchRequestHandler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="18" column="50" selection-start-line="18" selection-start-column="50" selection-end-line="18" selection-end-column="50" />
+            <state relative-caret-position="414">
+              <caret line="20" column="41" lean-forward="true" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -104,10 +117,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/voterinformation/handlers/amendment/AmendmentMeaningIntentHandler.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/voterinformation/handlers/CancelandStopIntentHandler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="624">
-              <caret line="34" column="5" lean-forward="true" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+            <state relative-caret-position="437">
+              <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -118,7 +131,57 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/voterinformation/handlers/amendment/AmendmentOppositionReasonIntentHandler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="415">
+            <state relative-caret-position="668">
+              <caret line="32" column="41" selection-start-line="32" selection-start-column="41" selection-end-line="32" selection-end-column="41" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/voterinformation/handlers/FallBackIntentHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="483">
+              <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#419#420#0" expanded="true" />
+                <element signature="e#492#493#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/voterinformation/handlers/candidate/GunControlIntentHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="578">
+              <caret line="32" column="41" selection-start-line="32" selection-start-column="41" selection-end-line="32" selection-end-column="41" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/voterinformation/handlers/candidate/OpponentIntentHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="578">
+              <caret line="32" column="41" selection-start-line="32" selection-start-column="41" selection-end-line="32" selection-end-column="41" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/voterinformation/handlers/candidate/RunningMateIntentHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="325">
               <caret line="21" column="13" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -127,47 +190,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/voterinformation/handlers/amendment/AmendmentOpposeIntentHandler.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/voterinformation/util/votingInfo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="394">
-              <caret line="24" column="62" selection-start-line="24" selection-start-column="62" selection-end-line="24" selection-end-column="62" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/voterinformation/handlers/judge/JudgeMoodySpecialIntentHandler.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="302">
-              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/voterinformation/handlers/judge/JudgeFusonIntentHandler.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="486">
-              <caret line="24" column="47" lean-forward="true" selection-end-line="34" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/voterinformation/handlers/judge/JudgeFusonAgeIntentHandler.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="348">
-              <caret line="18" column="54" selection-start-line="18" selection-start-column="54" selection-end-line="18" selection-end-column="54" />
+            <state relative-caret-position="463">
+              <caret line="51" column="276" selection-start-line="51" selection-start-column="276" selection-end-line="51" selection-end-column="276" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -192,29 +219,31 @@
       <list>
         <option value="$PROJECT_DIR$/src/main/java/voterinformation/handlers/FallBackIntentHandler.java" />
         <option value="$PROJECT_DIR$/.idea/workspace.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/voterinformation/handlers/LaunchRequestHandler.java" />
         <option value="$PROJECT_DIR$/src/main/java/voterinformation/handlers/CandidateIntentHandler.java" />
         <option value="$PROJECT_DIR$/src/main/java/voterinformation/handlers/candidate/CandidateIntentHandler.java" />
         <option value="$PROJECT_DIR$/src/main/java/voterinformation/handlers/candidate/RunningMateEventHandler.java" />
         <option value="$PROJECT_DIR$/src/main/java/voterinformation/handlers/candidate/OpponentIntent.java" />
-        <option value="$PROJECT_DIR$/src/main/java/voterinformation/handlers/candidate/GunControlIntentHandler.java" />
-        <option value="$PROJECT_DIR$/src/main/java/voterinformation/handlers/candidate/EnvironmentIntentHandler.java" />
-        <option value="$PROJECT_DIR$/src/main/java/voterinformation/handlers/candidate/OpponentIntentHandler.java" />
-        <option value="$PROJECT_DIR$/src/main/java/voterinformation/handlers/candidate/RunningMateIntentHandler.java" />
-        <option value="$PROJECT_DIR$/src/main/java/voterinformation/VoterInformationStreamHandler.java" />
         <option value="$PROJECT_DIR$/src/main/java/voterinformation/handlers/amendment/AmendmentIntentHandler.java" />
-        <option value="$PROJECT_DIR$/src/main/java/voterinformation/handlers/amendment/AmendmentMeaningIntentHandler.java" />
-        <option value="$PROJECT_DIR$/src/main/java/voterinformation/handlers/amendment/AmendmentSupportIntentHandler.java" />
-        <option value="$PROJECT_DIR$/src/main/java/voterinformation/util/votingInfo.java" />
         <option value="$PROJECT_DIR$/src/main/java/voterinformation/handlers/judge/JudgeIntentHandler.java" />
-        <option value="$PROJECT_DIR$/src/main/java/voterinformation/handlers/judge/JudgeMoodyIntentHandler.java" />
-        <option value="$PROJECT_DIR$/src/main/java/voterinformation/handlers/judge/JudgeMoodyAgeIntentHandler.java" />
-        <option value="$PROJECT_DIR$/src/main/java/voterinformation/handlers/judge/JudgeMoodySpecialIntentHandler.java" />
-        <option value="$PROJECT_DIR$/src/main/java/voterinformation/handlers/judge/JudgeFusonIntentHandler.java" />
         <option value="$PROJECT_DIR$/src/main/java/voterinformation/handlers/judge/JudgeFusonAgeIntentHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/voterinformation/VoterInformationStreamHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/voterinformation/handlers/amendment/AmendmentMeaningIntentHandler.java" />
         <option value="$PROJECT_DIR$/src/main/java/voterinformation/handlers/amendment/AmendmentOpposeIntentHandler.java" />
         <option value="$PROJECT_DIR$/src/main/java/voterinformation/handlers/amendment/AmendmentOppositionReasonIntentHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/voterinformation/handlers/amendment/AmendmentSupportIntentHandler.java" />
         <option value="$PROJECT_DIR$/src/main/java/voterinformation/handlers/amendment/AmendmentSupportReasonIntentHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/voterinformation/handlers/judge/JudgeFusonIntentHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/voterinformation/handlers/judge/JudgeMoodyAgeIntentHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/voterinformation/handlers/judge/JudgeMoodyIntentHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/voterinformation/handlers/judge/JudgeMoodySpecialIntentHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/voterinformation/handlers/candidate/EnvironmentIntentHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/voterinformation/handlers/candidate/GunControlIntentHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/voterinformation/handlers/candidate/OpponentIntentHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/voterinformation/handlers/candidate/RunningMateIntentHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/voterinformation/handlers/CancelandStopIntentHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/voterinformation/handlers/HelpIntentHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/voterinformation/handlers/LaunchRequestHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/voterinformation/util/votingInfo.java" />
       </list>
     </option>
   </component>
@@ -298,26 +327,6 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="voterinformation" type="462c0819:PsiDirectoryNode" />
-              <item name="handlers" type="462c0819:PsiDirectoryNode" />
-              <item name="candidate" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AlexaVoterInfo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AlexaVoterInfo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="voterinformation" type="462c0819:PsiDirectoryNode" />
-              <item name="handlers" type="462c0819:PsiDirectoryNode" />
-              <item name="judge" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AlexaVoterInfo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AlexaVoterInfo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="voterinformation" type="462c0819:PsiDirectoryNode" />
               <item name="util" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -333,7 +342,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="id&#9;PSI&#9;JAVA://com.amazonaws.services.dynamodbv2.datamodeling.S3Link.ID" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541304340333" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541307375232" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -358,7 +367,7 @@
       <option name="presentableId" value="Default" />
       <updated>1541268168941</updated>
       <workItem from="1541268174664" duration="3972000" />
-      <workItem from="1541274408812" duration="21158000" />
+      <workItem from="1541274408812" duration="24229000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1541285920940</created>
@@ -402,11 +411,18 @@
       <option name="project" value="LOCAL" />
       <updated>1541299461159</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Initial Prototype Finished">
+      <created>1541304360682</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1541304360682</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16088000" />
+    <option name="totallyTimeSpent" value="19159000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1513" height="973" extended-state="6" />
@@ -481,7 +497,8 @@
     <MESSAGE value="fefqa" />
     <MESSAGE value="." />
     <MESSAGE value="Added Intents" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Intents" />
+    <MESSAGE value="Initial Prototype Finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Prototype Finished" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/voterinformation/util/VotingFactsStream.java">
@@ -524,26 +541,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/voterinformation/handlers/HelpIntentHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
-          <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/voterinformation/handlers/SessionEndedRequestHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/com/amazonaws/aws-java-sdk-dynamodb/1.11.420/aws-java-sdk-dynamodb-1.11.420.jar!/com/amazonaws/services/dynamodbv2/datamodeling/S3Link.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4148">
@@ -554,91 +551,10 @@
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/voterinformation/handlers/FallBackIntentHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#419#420#0" expanded="true" />
-            <element signature="e#492#493#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/voterinformation/handlers/LaunchRequestHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" selection-start-line="7" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/voterinformation/handlers/CancelandStopIntentHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/voterinformation/handlers/candidate/EnvironmentIntentHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="32" column="25" selection-start-line="32" selection-start-column="25" selection-end-line="32" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/voterinformation/handlers/candidate/GunControlIntentHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/voterinformation/handlers/candidate/RunningMateIntentHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="29" column="41" selection-start-line="29" selection-start-column="40" selection-end-line="29" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/voterinformation/handlers/VoterInformationIntentHandler.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="529">
           <caret line="23" selection-start-line="23" selection-end-line="26" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/voterinformation/VoterInformationStreamHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="394">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#873#874#0" expanded="true" />
-            <element signature="e#906#907#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/voterinformation/handlers/candidate/OpponentIntentHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="32" column="25" selection-start-line="32" selection-start-column="25" selection-end-line="32" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -655,40 +571,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/voterinformation/handlers/judge/JudgeMoodyIntentHandler.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/voterinformation/VoterInformationStreamHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="624">
-          <caret line="34" column="1" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/voterinformation/handlers/judge/JudgeMoodyAgeIntentHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/voterinformation/handlers/judge/JudgeIntentHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="667">
-          <caret line="29" column="71" selection-start-line="29" selection-start-column="71" selection-end-line="29" selection-end-column="71" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/voterinformation/handlers/judge/JudgeFusonIntentHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="24" column="47" lean-forward="true" selection-end-line="34" selection-end-column="1" />
+        <state relative-caret-position="647">
+          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -705,30 +591,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/voterinformation/handlers/judge/JudgeMoodySpecialIntentHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/voterinformation/util/votingInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="828">
-          <caret line="90" column="126" selection-start-line="90" selection-start-column="126" selection-end-line="90" selection-end-column="126" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/voterinformation/handlers/amendment/AmendmentIntentHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="18" column="50" selection-start-line="18" selection-start-column="50" selection-end-line="18" selection-end-column="50" />
+        <state relative-caret-position="716">
+          <caret line="46" column="20" lean-forward="true" selection-start-line="46" selection-start-column="20" selection-end-line="46" selection-end-column="45" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -737,18 +603,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/voterinformation/handlers/amendment/AmendmentMeaningIntentHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="624">
-          <caret line="34" column="5" lean-forward="true" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/voterinformation/handlers/amendment/AmendmentSupportIntentHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="417">
-          <caret line="22" column="58" lean-forward="true" selection-end-line="35" selection-end-column="1" />
+        <state relative-caret-position="578">
+          <caret line="32" column="41" selection-start-line="32" selection-start-column="41" selection-end-line="32" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -757,18 +613,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/voterinformation/handlers/amendment/AmendmentOpposeIntentHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="394">
-          <caret line="24" column="62" selection-start-line="24" selection-start-column="62" selection-end-line="24" selection-end-column="62" />
+        <state relative-caret-position="578">
+          <caret line="32" column="41" selection-start-line="32" selection-start-column="41" selection-end-line="32" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/voterinformation/handlers/amendment/AmendmentOppositionReasonIntentHandler.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/voterinformation/handlers/amendment/AmendmentSupportIntentHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="415">
-          <caret line="21" column="13" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="13" />
+        <state relative-caret-position="647">
+          <caret line="32" column="41" selection-start-line="32" selection-start-column="41" selection-end-line="32" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -777,8 +633,170 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/voterinformation/handlers/amendment/AmendmentSupportReasonIntentHandler.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="647">
+          <caret line="32" column="41" selection-start-line="32" selection-start-column="41" selection-end-line="32" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/voterinformation/handlers/judge/JudgeFusonIntentHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="647">
+          <caret line="31" column="41" selection-start-line="31" selection-start-column="41" selection-end-line="31" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/voterinformation/handlers/judge/JudgeIntentHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-23">
+          <caret line="29" column="71" selection-start-line="29" selection-start-column="71" selection-end-line="29" selection-end-column="71" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/voterinformation/handlers/judge/JudgeMoodyAgeIntentHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="31" column="41" selection-start-line="31" selection-start-column="41" selection-end-line="31" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/voterinformation/handlers/judge/JudgeMoodyIntentHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="31" column="41" selection-start-line="31" selection-start-column="41" selection-end-line="31" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/voterinformation/handlers/judge/JudgeMoodySpecialIntentHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="31" column="41" selection-start-line="31" selection-start-column="41" selection-end-line="31" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/voterinformation/handlers/candidate/EnvironmentIntentHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="32" column="41" selection-start-line="32" selection-start-column="41" selection-end-line="32" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/voterinformation/handlers/candidate/GunControlIntentHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="32" column="41" selection-start-line="32" selection-start-column="41" selection-end-line="32" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/voterinformation/handlers/candidate/OpponentIntentHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="32" column="41" selection-start-line="32" selection-start-column="41" selection-end-line="32" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/voterinformation/handlers/candidate/RunningMateIntentHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="325">
-          <caret line="18" column="63" selection-start-line="18" selection-start-column="63" selection-end-line="18" selection-end-column="63" />
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/voterinformation/handlers/SessionEndedRequestHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/voterinformation/handlers/CancelandStopIntentHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/voterinformation/handlers/amendment/AmendmentOppositionReasonIntentHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="668">
+          <caret line="32" column="41" selection-start-line="32" selection-start-column="41" selection-end-line="32" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/voterinformation/handlers/FallBackIntentHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#419#420#0" expanded="true" />
+            <element signature="e#492#493#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/voterinformation/handlers/HelpIntentHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/voterinformation/handlers/LaunchRequestHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="20" column="41" lean-forward="true" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/voterinformation/util/votingInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="463">
+          <caret line="51" column="276" selection-start-line="51" selection-start-column="276" selection-end-line="51" selection-end-column="276" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

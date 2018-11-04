@@ -16,7 +16,7 @@ public class AmendmentOppositionReasonIntentHandler implements RequestHandler {
 
     @Override
     public boolean canHandle(HandlerInput input) {
-        return input.matches(intentName("AmendmentMeaningIntent").or(intentName("AMAZON.YesIntent")));
+        return input.matches(intentName("AmendmentOppositionReasonIntent").or(intentName("AMAZON.YesIntent")));
     }
 
     @Override
@@ -30,6 +30,7 @@ public class AmendmentOppositionReasonIntentHandler implements RequestHandler {
         return input.getResponseBuilder()
                 .withSpeech(speechText)
                 .withSimpleCard("Versed Voter", speechText)
+                .withReprompt(speechText)
                 .build();
 
     }

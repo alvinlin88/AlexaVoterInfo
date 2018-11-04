@@ -29,6 +29,7 @@ public class JudgeMoodySpecialIntentHandler implements RequestHandler {
         return input.getResponseBuilder()
                 .withSpeech(speechText)
                 .withSimpleCard("Versed Voter", speechText)
+                .withReprompt(speechText)
                 .build();
 
     }
