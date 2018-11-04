@@ -1,4 +1,4 @@
-package voterinformation.handlers;
+package voterinformation.handlers.candidate;
 
 import java.util.*;
 
@@ -41,7 +41,7 @@ public class CandidateIntentHandler implements RequestHandler {
                     .withReprompt(speechText)
                     .build();
         } else {
-            return input.getResponseBuilder()
+           return input.getResponseBuilder()
                     .withSpeech(speechText)
                     .withSimpleCard("Versed Voter", speechText)
                     .withReprompt(speechText)

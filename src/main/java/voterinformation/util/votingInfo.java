@@ -39,7 +39,7 @@ public class votingInfo {
     **/
     public static Map getInfo(){
         Map<String, String> map = new HashMap();
-        map.put("Candidate","The Democratic candidate for governor in the state of Florida is Andrew Gillum");
+        map.put("Candidate","The Democratic candidate for governor in the state of Florida is Andrew Gillum. Current polls suggest that he has approximately 70% chance to win the upcoming elections.");
         map.put("Amendment3", "Amendment 3 gives voters the exclusive right to decide whether a new casino can open in Florida. This right was previously reserved for Florida legislators who have in recent years not been able to reach an agreement on the issue");
         map.put("Judge", "Jamey Moody and Robin Fuson are the judicial candidates for Florida’s 13th circuit.");
         return map;
@@ -47,7 +47,7 @@ public class votingInfo {
 
     public static Map getInfo2(){
         Map<String, String> map= new HashMap();
-        map.put(    "Candidate", "Andrew Gillum has called for a series of gun-control measures, including a ban on assault weapons, limiting the size of magazines, banning armor-piercing bullets and prohibiting guns to those with domestic violence felonies or misdemeanors. For health care, Gillum has also campaigned on a platform of “Medicare for all,” has stated that universal health care is a right, and plans to expand Medicaid in line with the Affordable Care Act, and to guarantee care for those with pre-existing conditions.");
+        map.put("Candidate", "Andrew Gillum has called for a series of gun-control measures, including a ban on assault weapons, limiting the size of magazines, banning armor-piercing bullets and prohibiting guns to those with domestic violence felonies or misdemeanors. For health care, Gillum has also campaigned on a platform of “Medicare for all,” has stated that universal health care is a right, and plans to expand Medicaid in line with the Affordable Care Act, and to guarantee care for those with pre-existing conditions.");
         map.put("Amendment3", "This means that anyone who wanted to build a casino would need to get hundreds of thousands of signatures to get it on a ballot and then hope for voter approval. This would make it more difficult for any dog track or horse track wishing to expand its gaming to do so.");
         map.put("Judge", "According to his website, Jamey Moody is a Hillsborough County native with a long family history of upholding the law. Jamey graduated from the University of Florida with a Bachelor of Science in Finance and a Juris Doctor from UF’s Levin College of Law. His entire career has been spent in Circuit Court, where he has practiced law as a local attorney and partner.");
         return map;

@@ -4,6 +4,7 @@ import com.amazon.ask.Skill;
 import com.amazon.ask.Skills;
 import com.amazon.ask.SkillStreamHandler;
 import voterinformation.handlers.*;
+import voterinformation.handlers.candidate.CandidateIntentHandler;
 
 public class VoterInformationStreamHandler extends SkillStreamHandler {
 
