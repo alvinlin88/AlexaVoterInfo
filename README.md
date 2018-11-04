@@ -16,6 +16,6 @@ Required Tech/Programs in order to setup this skill
 
 
 # Disclaimer
-This is a very initial prototype. There may be bugs, and many features are missing. 
+This is a very initial prototype. There may be bugs, and many features are missing. Automatic API calls for election data will be implemented soon
 
 
