@@ -12,6 +12,7 @@ Required Tech/Programs in order to setup this skill
 * [Alexa Skills Kit SDK](https://github.com/alexa/alexa-skills-kit-sdk-for-java) - Allows for Alexa Skills to be built in Java
 * [Amazon AWS Lambda](https://aws.amazon.com/lambda/) - Allows functions to be hosted in the cloud
 * [Maven](https://mvnrepository.com/artifact/com.amazon.alexa/ask-sdk) - Needed to build jar file with dependency
+* [Google Civic API](https://developers.google.com/civic-information/) - For automatic GET requests for voter information
 
 
 
