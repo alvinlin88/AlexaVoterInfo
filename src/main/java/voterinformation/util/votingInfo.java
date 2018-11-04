@@ -84,6 +84,12 @@ public class votingInfo {
         return map;
     }
 
+    public static Map getImages(){
+        Map<String, String> map = new HashMap<>();
+        map.put("Candidate", "https://media1.s-nbcnews.com/j/newscms/2018_44/2624296/181030-andrew-gillum-ew-1149a_2d07828407de4d4527f26a8ebd5cd5ce.fit-760w.jpg");
+        return map;
+    }
+
     public static List getKeys(){
         List<String> keys = new ArrayList();
         keys.add("Candidate");

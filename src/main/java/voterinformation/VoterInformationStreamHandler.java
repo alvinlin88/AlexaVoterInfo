@@ -15,8 +15,9 @@ public class VoterInformationStreamHandler extends SkillStreamHandler {
                         new HelpIntentHandler(),
                         new LaunchRequestHandler(),
                         new SessionEndedRequestHandler(),
-                        new FallBackIntentHandler())
-                //.withSkillId("amzn1.ask.skill.8cfa7801-c46f-4bdd-9d90-dbb4316f9413")
+                        new FallBackIntentHandler(),
+                        new CandidateIntentHandler())
+
                 .build();
     }
 

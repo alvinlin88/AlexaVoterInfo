@@ -1,3 +1,4 @@
+voterinformation\handlers\CandidateIntentHandler.class
 voterinformation\util\votingInfo.class
 voterinformation\handlers\VoterInformationIntentHandler.class
 voterinformation\VoterInformationStreamHandler.class
