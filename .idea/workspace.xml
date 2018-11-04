@@ -314,7 +314,7 @@
     <property name="SearchEverywhereHistoryKey" value="id&#9;PSI&#9;JAVA://com.amazonaws.services.dynamodbv2.datamodeling.S3Link.ID" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541356307882" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541356640703" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">

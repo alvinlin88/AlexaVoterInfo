@@ -4,6 +4,7 @@ voterinformation\handlers\judge\JudgeFusonAgeIntentHandler.class
 voterinformation\handlers\amendment\AmendmentOppositionReasonIntentHandler.class
 voterinformation\handlers\amendment\AmendmentSupportReasonIntentHandler.class
 voterinformation\handlers\candidate\EnvironmentIntentHandler.class
+voterinformation\handlers\apidemo\VotingLocationIntentHandler.class
 voterinformation\VoterInformationStreamHandler.class
 voterinformation\handlers\amendment\AmendmentIntentHandler.class
 voterinformation\handlers\judge\JudgeMoodySpecialIntentHandler.class
@@ -13,6 +14,7 @@ voterinformation\handlers\amendment\AmendmentMeaningIntentHandler.class
 voterinformation\handlers\amendment\AmendmentOpposeIntentHandler.class
 voterinformation\handlers\candidate\CandidateIntentHandler.class
 voterinformation\handlers\candidate\RunningMateIntentHandler.class
+voterinformation\handlers\apidemo\MyAddressIsIntent.class
 voterinformation\util\votingInfo.class
 voterinformation\handlers\judge\JudgeMoodyAgeIntentHandler.class
 voterinformation\handlers\judge\JudgeMoodyIntentHandler.class
