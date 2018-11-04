@@ -4,7 +4,7 @@ import com.amazon.ask.Skill;
 import com.amazon.ask.Skills;
 import com.amazon.ask.SkillStreamHandler;
 import voterinformation.handlers.*;
-import voterinformation.handlers.candidate.CandidateIntentHandler;
+import voterinformation.handlers.candidate.*;
 
 public class VoterInformationStreamHandler extends SkillStreamHandler {
 
@@ -17,9 +17,13 @@ public class VoterInformationStreamHandler extends SkillStreamHandler {
                         new LaunchRequestHandler(),
                         new SessionEndedRequestHandler(),
                         new FallBackIntentHandler(),
-                        new CandidateIntentHandler())
 
-                .build();
+                        new CandidateIntentHandler(),
+                        new EnvironmentIntentHandler(),
+                        new OpponentIntentHandler(),
+                        new GunControlIntentHandler(),
+                        new RunningMateIntentHandler())
+               .build();
     }
 
     public VoterInformationStreamHandler() {

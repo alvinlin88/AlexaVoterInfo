@@ -16,7 +16,7 @@ public class OpponentIntentHandler implements RequestHandler {
 
     @Override
     public boolean canHandle(HandlerInput input) {
-        return input.matches(intentName("CandidateIntent").or(intentName("AMAZON.YesIntent")));
+        return input.matches(intentName("OpponentIntent").or(intentName("AMAZON.YesIntent")));
     }
 
     @Override
@@ -30,7 +30,6 @@ public class OpponentIntentHandler implements RequestHandler {
         return input.getResponseBuilder()
                 .withSpeech(speechText)
                 .withSimpleCard("Versed Voter", speechText)
-                .withReprompt(speechText)
                 .build();
     }
 

@@ -30,7 +30,6 @@ public class GunControlIntentHandler implements RequestHandler {
         return input.getResponseBuilder()
                 .withSpeech(speechText)
                 .withSimpleCard("Versed Voter", speechText)
-                .withReprompt(speechText)
                 .build();
     }
 
